@@ -3,7 +3,7 @@
 Original article page:
 [https://www.maxlaumeister.com/articles/hide-related-videos-in-youtube-embeds/](https://www.maxlaumeister.com/articles/hide-related-videos-in-youtube-embeds/)
 
-Related projects:
+Related projects:<br>
 [https://noembed.com/](https://noembed.com/)<br>
 [https://plyr.io/](https://plyr.io/)
 
